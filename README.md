@@ -1,4 +1,4 @@
-![Weather Stream](https://i.imgur.com/DRkuZmL.jpg)
+![Weather Stream](https://i.imgur.com/yhgwojm.jpg)
 
 # Weather Stream
 [![Awesome Kotlin Badge](https://kotlin.link/awesome-kotlin.svg)](https://github.com/KotlinBy/awesome-kotlin)
